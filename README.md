@@ -1,4 +1,4 @@
-# todo app using python
+# Todo app using python
  This is simply perform the CRUD operation with entered tasks.
 
 <hr>
