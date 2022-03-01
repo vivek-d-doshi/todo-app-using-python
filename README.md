@@ -7,4 +7,4 @@
 <img src="https://user-images.githubusercontent.com/77320499/156154790-e21511d4-4ab6-4821-9328-1be56d6f84dd.jpg">
 <hr>
 
-# Happy Coding!
+# Happy Coding! :computer: :partying_face:
