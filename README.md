@@ -1,5 +1,5 @@
 # Todo app using python 🐍
- This is simply CRUD operation with entered tasks. i have made this using python and postgreSQL DB, to use the DB functionality install postgre to your system and create DB using given **todolist.sql** file above. to connect the db with python file **db_conn.py** is also attached. If any query/ suggestion for this app raise issue or pull requests.
+ This is simply CRUD operation with entered tasks. i have made this using python and postgreSQL DB, to use the DB functionality install postgre to your system and create DB using given (**todolist.sql**) file above. to connect the db with python file (**db_conn.py**) is also attached. If any query/ suggestion for this app raise issue or pull requests.
 
 <hr>
 <center>
@@ -8,5 +8,5 @@
 
 <hr>
 
-## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Happy Coding! 💻🥳🎈☕
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Happy Coding! 💻🥳🎈☕
 
