@@ -33,6 +33,8 @@ CREATE TABLE todo ( id BIGSERIAL NOT NULL PRIMARY KEY, title VARCHAR(255));
 </p>
 <hr>
 
-## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Happy Coding! 💻🥳🎈☕
+<p align="center"> 
+Happy Coding! 💻🥳🎈☕ 
+</p>
 
 
